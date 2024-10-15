@@ -1,0 +1,14 @@
+.hero-section{
+    background-image: url(https://cdn.prod.website-files.com/613f2494a7d5cd1817022b81/641402be2676dc58d44ed190_Group%20968.webp);
+    background-position: 150%;
+    background-repeat: no-repeat;
+    background-size: 75%;
+    min-height: 100vh;
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+.sign-form h2{
+    text-align: center;
+    color: var(--button-color);
+    margin-bottom: 1em;
+}

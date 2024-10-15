@@ -1,0 +1,18 @@
+.logo-img{
+    height: 65px;
+}
+@media (min-width: 1536px) {
+    .container {
+        max-width: 1240px !important;
+    }
+}
+a{
+    justify-content: center;
+    align-items: center;
+    height: 65px;
+    width: 39%;
+    font-size: 21px;
+    font-weight: 400;
+    display: flex;
+    color: #fff;
+}
